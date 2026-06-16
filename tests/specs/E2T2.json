@@ -32,7 +32,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "No-show flagged"
+              "text": "No-show flagged\n\nBooking ID: DK-0001\nGuest: Alex Guest\nDate: 2026-07-01\nTime: 10:00\nParty size: 2\nThe guest was not marked arrived within 30 minutes of the start time."
             }
           }
         ]
